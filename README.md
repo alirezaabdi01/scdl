@@ -14,7 +14,7 @@ Compatible with Windows, OS X, Linux.
 https://github.com/flyingrub/scdl/wiki/Installation-Instruction
 
 ## Configuration
-There is a configuration file left in `~/.config/scdl/scdl.cfg`
+There is a configuration file left in `C:\Users\[YOUR_USERNAME]\.config\scdl`
 
 ## Examples:
 ```
